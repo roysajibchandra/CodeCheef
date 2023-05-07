@@ -24,19 +24,19 @@ class Codechef
 		        System.out.println("NO");
 		    }
 		}
-    // use While loop
-    /* while(T>0)
-		{
-		    int N = timtim.nextInt();
-		    if(N%3==0)
-		    {
-		        System.out.println("YES");
-		    }
-		    else
-		    {
-		        System.out.println("NO");
-		    }
-        T--;
-		*/ }
+    		// use While loop
+    		 while(T>0)
+			{
+		    	int N = timtim.nextInt();
+		    	if(N%3==0)
+		    	{
+		        	System.out.println("YES");
+		    	}
+		    	else
+		    	{
+		        	System.out.println("NO");
+		    	}
+        		T--;
+			}
 	}
 }
