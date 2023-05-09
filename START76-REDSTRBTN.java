@@ -27,6 +27,10 @@ class Codechef
 		    {
 		        System.out.println("NO");
 		    }
+			/*
+		    int ans=x+y+z;
+		    System.out.println(ans<=5?"No":"Yes");
+		        */
 		}
 		
 	}
